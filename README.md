@@ -1,4 +1,4 @@
-# Actuarial Theory and Practice A UNSW
+# Actuarial Theory and Practice A @ UNSW
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
@@ -11,7 +11,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 This is written in markdown language. 
 >
-* Click [link](https://classroom.github.com/a/ggiq0YzO) to accept your group assignment.
+* Click [link](https://classroom.github.com/a/elzutNYu) to accept your group assignment.
 
 
 #### Follow the [guide doc](Doc1.pdf) to submit your work. 
