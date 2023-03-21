@@ -1,4 +1,4 @@
-# Actuarial Theory and Practice A 2023 T1 UNSW
+# Actuarial Theory and Practice A 2023 
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
