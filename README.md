@@ -20,3 +20,23 @@ This is written in markdown language.
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
+
+
+# Executive Summary:
+
+
+
+# Program design
+
+
+# Pricing and cost
+
+
+# Risk and risk mitigation
+
+
+# Conclusion
+
+
+
+
